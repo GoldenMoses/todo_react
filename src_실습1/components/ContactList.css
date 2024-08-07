@@ -1,0 +1,12 @@
+.contactList{
+    
+    background-color: bisque;
+    display:flex;
+    flex-direction: column;
+    height:100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}

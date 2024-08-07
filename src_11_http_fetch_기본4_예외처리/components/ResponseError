@@ -1,0 +1,13 @@
+
+
+
+function ResponseError({messsage}){
+    return(
+        <>
+        <h2>Error</h2>
+        {messeage.message}
+        </>
+    );
+}
+
+export default ResponseError;
